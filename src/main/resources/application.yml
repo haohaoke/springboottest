@@ -1,0 +1,12 @@
+server:
+  address: 0.0.0.0
+  port: 8080
+  servlet:
+    context-path: /app
+  tomcat:
+    uri-encoding: utf-8
+
+
+constant:
+  company: Yungoal
+  address: 北京市上地九街数码科技广场
